@@ -2,4 +2,6 @@ NAME:  Hidayath.M
 CLASS: IV BCA 'c'
 ROLLNO: 23BCAC27
 DEPT: COMPUTER SCIENCE
+clg: kristu jayanti college
+
 
